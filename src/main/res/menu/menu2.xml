@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/delete"
+        android:title="删除">
+    </item>
+    <item
+        android:id="@+id/update"
+        android:title="更新">
+    </item>
+    <item
+        android:id="@+id/shoucang"
+        android:title="收藏">
+    </item>
+    <item
+        android:id="@+id/chakan"
+        android:title="查看详情">
+    </item>
+    <item
+        android:id="@+id/fayin"
+        android:title="获取发音">
+    </item>
+</menu>
